@@ -1,5 +1,5 @@
 # ReactMailbox
 
-mailbox for Android8.1,oneplus5.
+mailbox for Android8.1,Oneplus5.
 
-Using react native.
+Using React Native.
